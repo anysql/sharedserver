@@ -1,4 +1,4 @@
-# Thread Pool for MySQL Community Edition
+# New Thread Pool
 
 1, Binary file only, compatible with MySQL community edition.
 
