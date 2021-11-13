@@ -11,6 +11,6 @@
 
 3, Set plugin-load option in my.cnf to load it.
 
-- plugin-load = thread_pool<os version>_<mysql_version>.so
+- plugin-load = thread_pool <os version>_<mysql_version>.so
 
 4, Start your workload, it's ready for any workload.
