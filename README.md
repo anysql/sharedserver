@@ -6,6 +6,7 @@
 - thread_pool7_5636.so is for 5.7.36 on RHEL/CentOS 7
 - thread_pool6_8127.so is for 8.0.27 on RHEL/CentOS 6
 - thread_pool7_8127.so is for 8.0.27 on RHEL/CentOS 7
+- shared_server_5735.so is for percona 5.7.35 on RHEL/CentOS 7
 
 2, Copy the so file to "/usr/lib64/mysql/plugin" directory.
 
