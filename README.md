@@ -1,4 +1,4 @@
-# New Thread Pool
+# Dynamic Thread Pool
 
 1, Binary file only, compatible with MySQL community edition.
 
