@@ -1,4 +1,4 @@
-# SharedServer Plugin - Drop-in Replacement of Thread Pool
+# SharedServer - A Thread Pool Replacement
 
 1, Binary file only, compatible with MySQL community edition.
 
