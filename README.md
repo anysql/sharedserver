@@ -1,6 +1,6 @@
 # SharedServer - A Thread Pool Replacement
 
-1, Binary file only, compatible with MySQL community edition.
+1, Binary file only, compatible with MySQL community edition (RPM Package).
 
 - sharedserver_c6_m5562.so is for MySQL 5.5.62 on RHEL/CentOS 6
 - sharedserver_c6_m5651.so is for MySQL 5.6.51 on RHEL/CentOS 6
